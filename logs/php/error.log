@@ -1,0 +1,514 @@
+[02-Sep-2024 01:11:46 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[02-Sep-2024 11:12:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:12:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:12:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:12:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:12:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:12:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:12:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:12:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:12:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:12:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:12:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:12:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:14:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:14:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:14:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:14:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:14:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:14:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:14:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:14:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:14:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:14:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:14:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:14:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 11:44:59 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[02-Sep-2024 11:57:22 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[02-Sep-2024 13:36:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 13:36:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 13:36:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 13:36:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 13:36:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 13:36:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 13:36:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 13:36:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 13:36:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 13:36:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 13:36:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[02-Sep-2024 13:36:45 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:07:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:07:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:07:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:07:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:07:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:07:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:07:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:07:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:07:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:07:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:07:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:07:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:07:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:33:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:33:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:33:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:33:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:33:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:33:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:33:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:33:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:33:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:33:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:33:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:33:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:34:53 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:41:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:41:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:41:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:41:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:41:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:41:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:41:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:41:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:41:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:41:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:41:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 00:41:42 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:00:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:00:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:00:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:00:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:00:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:00:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:00:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:00:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:00:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:00:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:00:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:00:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:01:03 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 01:56:25 UTC] WordPress database error Unknown column 'gross_total' in 'wp_wc_order_stats' for query ALTER TABLE wp_wc_order_stats CHANGE COLUMN `gross_total` `total_sales` double DEFAULT 0 NOT NULL made by do_action_ref_array('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_admin_update_0230_rename_gross_total
+[03-Sep-2024 01:56:49 UTC] WordPress database error Can't DROP 'is_primary'; check that column/key exists for query ALTER TABLE wp_wc_admin_note_actions DROP COLUMN `is_primary` made by do_action('wp_ajax_as_async_request_queue_runner'), WP_Hook->do_action, WP_Hook->apply_filters, WP_Async_Request->maybe_handle, ActionScheduler_AsyncRequest_QueueRunner->handle, do_action('action_scheduler_run_queue'), WP_Hook->do_action, WP_Hook->apply_filters, ActionScheduler_QueueRunner->run, ActionScheduler_QueueRunner->do_batch, ActionScheduler_Abstract_QueueRunner->process_action, ActionScheduler_Action->execute, do_action_ref_array('woocommerce_run_update_callback'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Install::run_update_callback, wc_admin_update_340_remove_is_primary_from_note_action
+[03-Sep-2024 13:35:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:35:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:35:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:35:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:35:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:35:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:35:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:35:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:35:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:35:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:35:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:35:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:35:56 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:38:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:38:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:38:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:38:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:38:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:38:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:38:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:38:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:38:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:38:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:38:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 13:38:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[03-Sep-2024 15:12:56 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[04-Sep-2024 15:17:14 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[04-Sep-2024 19:43:23 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) as orders_count, SUM(wp_wc_order_stats.num_items_sold) as num_items_sold, ( SUM(wp_wc_order_stats.total_sales) + COALESCE( SUM(discount_amount), 0 ) - SUM(wp_wc_order_stats.tax_total) - SUM(wp_wc_order_stats.shipping_total) + ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) ) as gross_sales, SUM(wp_wc_order_stats.total_sales) AS total_sales, COALESCE( SUM(discount_amount), 0 ) AS coupons, COALESCE( coupons_count, 0 ) as coupons_count, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.tax_total) AS taxes, SUM(wp_wc_order_stats.shipping_total) AS shipping, SUM(wp_wc_order_stats.net_total) AS net_revenue, SUM( wp_wc_order_stats.num_items_sold ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_items_per_order, SUM( wp_wc_order_stats.net_total ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_order_value, COUNT( DISTINCT( wp_wc_order_stats.customer_id ) ) as total_customers
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2024-09-04 20:43:21' AND wp_wc_order_stats.`date_paid` >= '2024-09-01 00:00:00'
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_stats_data, rest_do_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Revenue\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Revenue\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:23 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) as orders_count, SUM(wp_wc_order_stats.num_items_sold) as num_items_sold, ( SUM(wp_wc_order_stats.total_sales) + COALESCE( SUM(discount_amount), 0 ) - SUM(wp_wc_order_stats.tax_total) - SUM(wp_wc_order_stats.shipping_total) + ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) ) as gross_sales, SUM(wp_wc_order_stats.total_sales) AS total_sales, COALESCE( SUM(discount_amount), 0 ) AS coupons, COALESCE( coupons_count, 0 ) as coupons_count, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.tax_total) AS taxes, SUM(wp_wc_order_stats.shipping_total) AS shipping, SUM(wp_wc_order_stats.net_total) AS net_revenue, SUM( wp_wc_order_stats.num_items_sold ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_items_per_order, SUM( wp_wc_order_stats.net_total ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_order_value, COUNT( DISTINCT( wp_wc_order_stats.customer_id ) ) as total_customers
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2023-09-04 23:59:59' AND wp_wc_order_stats.`date_paid` >= '2023-09-01 00:00:00'
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_stats_data, rest_do_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Revenue\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Revenue\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:23 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				DATE_FORMAT(wp_wc_order_stats.`date_paid`, '%x-%v') AS time_interval , MAX(wp_wc_order_stats.date_created) AS datetime_anchor , SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) as orders_count, SUM(wp_wc_order_stats.num_items_sold) as num_items_sold, ( SUM(wp_wc_order_stats.total_sales) + COALESCE( SUM(discount_amount), 0 ) - SUM(wp_wc_order_stats.tax_total) - SUM(wp_wc_order_stats.shipping_total) + ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) ) as gross_sales, SUM(wp_wc_order_stats.total_sales) AS total_sales, COALESCE( SUM(discount_amount), 0 ) AS coupons, COALESCE( coupons_count, 0 ) as coupons_count, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.tax_total) AS taxes, SUM(wp_wc_order_stats.shipping_total) AS shipping, SUM(wp_wc_order_stats.net_total) AS net_revenue, SUM( wp_wc_order_stats.num_items_sold ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_items_per_order, SUM( wp_wc_order_stats.net_total ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_order_value, COUNT( DISTINCT( wp_wc_order_stats.customer_id ) ) as total_customers
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2024-09-04 20:43:21' AND wp_wc_order_stats.`date_paid` >= '2024-09-01 00:00:00'
+		
+				GROUP BY
+					time_interval
+			
+				ORDER BY
+					time_interval desc
+			LIMIT 0,10 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_stats_data, rest_do_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Revenue\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Revenue\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:23 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				DATE_FORMAT(wp_wc_order_stats.`date_paid`, '%x-%v') AS time_interval , MAX(wp_wc_order_stats.date_created) AS datetime_anchor , SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) as orders_count, SUM(wp_wc_order_stats.num_items_sold) as num_items_sold, ( SUM(wp_wc_order_stats.total_sales) + COALESCE( SUM(discount_amount), 0 ) - SUM(wp_wc_order_stats.tax_total) - SUM(wp_wc_order_stats.shipping_total) + ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) ) as gross_sales, SUM(wp_wc_order_stats.total_sales) AS total_sales, COALESCE( SUM(discount_amount), 0 ) AS coupons, COALESCE( coupons_count, 0 ) as coupons_count, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.tax_total) AS taxes, SUM(wp_wc_order_stats.shipping_total) AS shipping, SUM(wp_wc_order_stats.net_total) AS net_revenue, SUM( wp_wc_order_stats.num_items_sold ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_items_per_order, SUM( wp_wc_order_stats.net_total ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_order_value, COUNT( DISTINCT( wp_wc_order_stats.customer_id ) ) as total_customers
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2023-09-04 23:59:59' AND wp_wc_order_stats.`date_paid` >= '2023-09-01 00:00:00'
+		
+				GROUP BY
+					time_interval
+			
+				ORDER BY
+					time_interval desc
+			LIMIT 0,10 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_stats_data, rest_do_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Revenue\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Revenue\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:23 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) as orders_count, SUM(wp_wc_order_stats.num_items_sold) as num_items_sold, ( SUM(wp_wc_order_stats.total_sales) + COALESCE( SUM(discount_amount), 0 ) - SUM(wp_wc_order_stats.tax_total) - SUM(wp_wc_order_stats.shipping_total) + ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) ) as gross_sales, SUM(wp_wc_order_stats.total_sales) AS total_sales, COALESCE( SUM(discount_amount), 0 ) AS coupons, COALESCE( coupons_count, 0 ) as coupons_count, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.tax_total) AS taxes, SUM(wp_wc_order_stats.shipping_total) AS shipping, SUM(wp_wc_order_stats.net_total) AS net_revenue, SUM( wp_wc_order_stats.num_items_sold ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_items_per_order, SUM( wp_wc_order_stats.net_total ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_order_value, COUNT( DISTINCT( wp_wc_order_stats.customer_id ) ) as total_customers
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2024-09-04 20:43:21' AND wp_wc_order_stats.`date_paid` >= '2024-09-01 00:00:00'
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_stats_data, rest_do_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:23 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) as orders_count, SUM(wp_wc_order_stats.num_items_sold) as num_items_sold, ( SUM(wp_wc_order_stats.total_sales) + COALESCE( SUM(discount_amount), 0 ) - SUM(wp_wc_order_stats.tax_total) - SUM(wp_wc_order_stats.shipping_total) + ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) ) as gross_sales, SUM(wp_wc_order_stats.total_sales) AS total_sales, COALESCE( SUM(discount_amount), 0 ) AS coupons, COALESCE( coupons_count, 0 ) as coupons_count, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.tax_total) AS taxes, SUM(wp_wc_order_stats.shipping_total) AS shipping, SUM(wp_wc_order_stats.net_total) AS net_revenue, SUM( wp_wc_order_stats.num_items_sold ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_items_per_order, SUM( wp_wc_order_stats.net_total ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_order_value, COUNT( DISTINCT( wp_wc_order_stats.customer_id ) ) as total_customers
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2023-09-04 23:59:59' AND wp_wc_order_stats.`date_paid` >= '2023-09-01 00:00:00'
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_stats_data, rest_do_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:23 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				DATE_FORMAT(wp_wc_order_stats.`date_paid`, '%x-%v') AS time_interval , MAX(wp_wc_order_stats.date_created) AS datetime_anchor , SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) as orders_count, SUM(wp_wc_order_stats.num_items_sold) as num_items_sold, ( SUM(wp_wc_order_stats.total_sales) + COALESCE( SUM(discount_amount), 0 ) - SUM(wp_wc_order_stats.tax_total) - SUM(wp_wc_order_stats.shipping_total) + ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) ) as gross_sales, SUM(wp_wc_order_stats.total_sales) AS total_sales, COALESCE( SUM(discount_amount), 0 ) AS coupons, COALESCE( coupons_count, 0 ) as coupons_count, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.tax_total) AS taxes, SUM(wp_wc_order_stats.shipping_total) AS shipping, SUM(wp_wc_order_stats.net_total) AS net_revenue, SUM( wp_wc_order_stats.num_items_sold ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_items_per_order, SUM( wp_wc_order_stats.net_total ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_order_value, COUNT( DISTINCT( wp_wc_order_stats.customer_id ) ) as total_customers
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2024-09-04 20:43:21' AND wp_wc_order_stats.`date_paid` >= '2024-09-01 00:00:00'
+		
+				GROUP BY
+					time_interval
+			
+				ORDER BY
+					time_interval desc
+			LIMIT 0,10 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_stats_data, rest_do_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:23 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				DATE_FORMAT(wp_wc_order_stats.`date_paid`, '%x-%v') AS time_interval , MAX(wp_wc_order_stats.date_created) AS datetime_anchor , SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) as orders_count, SUM(wp_wc_order_stats.num_items_sold) as num_items_sold, ( SUM(wp_wc_order_stats.total_sales) + COALESCE( SUM(discount_amount), 0 ) - SUM(wp_wc_order_stats.tax_total) - SUM(wp_wc_order_stats.shipping_total) + ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) ) as gross_sales, SUM(wp_wc_order_stats.total_sales) AS total_sales, COALESCE( SUM(discount_amount), 0 ) AS coupons, COALESCE( coupons_count, 0 ) as coupons_count, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.tax_total) AS taxes, SUM(wp_wc_order_stats.shipping_total) AS shipping, SUM(wp_wc_order_stats.net_total) AS net_revenue, SUM( wp_wc_order_stats.num_items_sold ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_items_per_order, SUM( wp_wc_order_stats.net_total ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_order_value, COUNT( DISTINCT( wp_wc_order_stats.customer_id ) ) as total_customers
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2023-09-04 23:59:59' AND wp_wc_order_stats.`date_paid` >= '2023-09-01 00:00:00'
+		
+				GROUP BY
+					time_interval
+			
+				ORDER BY
+					time_interval desc
+			LIMIT 0,10 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_stats_data, rest_do_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:24 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				SUM(wp_wc_order_stats.total_sales) AS total_sales, SUM(wp_wc_order_stats.net_total) AS net_revenue, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.shipping_total) AS shipping
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2023-09-04 23:59:59' AND wp_wc_order_stats.`date_paid` >= '2023-09-01 00:00:00'
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Revenue\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Revenue\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:24 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				SUM(wp_wc_order_stats.total_sales) AS total_sales, SUM(wp_wc_order_stats.net_total) AS net_revenue, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.shipping_total) AS shipping
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2024-09-04 23:59:59' AND wp_wc_order_stats.`date_paid` >= '2024-09-01 00:00:00'
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Revenue\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Revenue\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:24 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				DATE_FORMAT(wp_wc_order_stats.`date_paid`, '%Y-%m-%d') AS time_interval , MAX(wp_wc_order_stats.date_created) AS datetime_anchor , SUM(wp_wc_order_stats.total_sales) AS total_sales, SUM(wp_wc_order_stats.net_total) AS net_revenue, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.shipping_total) AS shipping
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2023-09-04 23:59:59' AND wp_wc_order_stats.`date_paid` >= '2023-09-01 00:00:00'
+		
+				GROUP BY
+					time_interval
+			
+				ORDER BY
+					time_interval asc
+			LIMIT 0,100 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Revenue\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Revenue\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:24 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				DATE_FORMAT(wp_wc_order_stats.`date_paid`, '%Y-%m-%d') AS time_interval , MAX(wp_wc_order_stats.date_created) AS datetime_anchor , SUM(wp_wc_order_stats.total_sales) AS total_sales, SUM(wp_wc_order_stats.net_total) AS net_revenue, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.shipping_total) AS shipping
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2024-09-04 23:59:59' AND wp_wc_order_stats.`date_paid` >= '2024-09-01 00:00:00'
+		
+				GROUP BY
+					time_interval
+			
+				ORDER BY
+					time_interval asc
+			LIMIT 0,100 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Revenue\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Revenue\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:25 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) as orders_count, SUM(wp_wc_order_stats.num_items_sold) as num_items_sold, ( SUM(wp_wc_order_stats.total_sales) + COALESCE( SUM(discount_amount), 0 ) - SUM(wp_wc_order_stats.tax_total) - SUM(wp_wc_order_stats.shipping_total) + ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) ) as gross_sales, SUM(wp_wc_order_stats.total_sales) AS total_sales, COALESCE( SUM(discount_amount), 0 ) AS coupons, COALESCE( coupons_count, 0 ) as coupons_count, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.tax_total) AS taxes, SUM(wp_wc_order_stats.shipping_total) AS shipping, SUM(wp_wc_order_stats.net_total) AS net_revenue, SUM( wp_wc_order_stats.num_items_sold ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_items_per_order, SUM( wp_wc_order_stats.net_total ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_order_value, COUNT( DISTINCT( wp_wc_order_stats.customer_id ) ) as total_customers
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2024-09-04 23:59:59' AND wp_wc_order_stats.`date_paid` >= '2024-09-01 00:00:00'
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_stats_data, rest_do_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Revenue\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Revenue\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:25 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				DATE_FORMAT(wp_wc_order_stats.`date_paid`, '%x-%v') AS time_interval , MAX(wp_wc_order_stats.date_created) AS datetime_anchor , SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) as orders_count, SUM(wp_wc_order_stats.num_items_sold) as num_items_sold, ( SUM(wp_wc_order_stats.total_sales) + COALESCE( SUM(discount_amount), 0 ) - SUM(wp_wc_order_stats.tax_total) - SUM(wp_wc_order_stats.shipping_total) + ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) ) as gross_sales, SUM(wp_wc_order_stats.total_sales) AS total_sales, COALESCE( SUM(discount_amount), 0 ) AS coupons, COALESCE( coupons_count, 0 ) as coupons_count, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.tax_total) AS taxes, SUM(wp_wc_order_stats.shipping_total) AS shipping, SUM(wp_wc_order_stats.net_total) AS net_revenue, SUM( wp_wc_order_stats.num_items_sold ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_items_per_order, SUM( wp_wc_order_stats.net_total ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_order_value, COUNT( DISTINCT( wp_wc_order_stats.customer_id ) ) as total_customers
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2024-09-04 23:59:59' AND wp_wc_order_stats.`date_paid` >= '2024-09-01 00:00:00'
+		
+				GROUP BY
+					time_interval
+			
+				ORDER BY
+					time_interval desc
+			LIMIT 0,10 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_stats_data, rest_do_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Revenue\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Revenue\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:25 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) as orders_count, SUM(wp_wc_order_stats.num_items_sold) as num_items_sold, ( SUM(wp_wc_order_stats.total_sales) + COALESCE( SUM(discount_amount), 0 ) - SUM(wp_wc_order_stats.tax_total) - SUM(wp_wc_order_stats.shipping_total) + ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) ) as gross_sales, SUM(wp_wc_order_stats.total_sales) AS total_sales, COALESCE( SUM(discount_amount), 0 ) AS coupons, COALESCE( coupons_count, 0 ) as coupons_count, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.tax_total) AS taxes, SUM(wp_wc_order_stats.shipping_total) AS shipping, SUM(wp_wc_order_stats.net_total) AS net_revenue, SUM( wp_wc_order_stats.num_items_sold ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_items_per_order, SUM( wp_wc_order_stats.net_total ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_order_value, COUNT( DISTINCT( wp_wc_order_stats.customer_id ) ) as total_customers
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2024-09-04 23:59:59' AND wp_wc_order_stats.`date_paid` >= '2024-09-01 00:00:00'
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_stats_data, rest_do_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 19:43:25 UTC] WordPress database error Unknown column 'wp_wc_order_stats.total_sales' in 'field list' for query 
+			SELECT
+				DATE_FORMAT(wp_wc_order_stats.`date_paid`, '%x-%v') AS time_interval , MAX(wp_wc_order_stats.date_created) AS datetime_anchor , SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) as orders_count, SUM(wp_wc_order_stats.num_items_sold) as num_items_sold, ( SUM(wp_wc_order_stats.total_sales) + COALESCE( SUM(discount_amount), 0 ) - SUM(wp_wc_order_stats.tax_total) - SUM(wp_wc_order_stats.shipping_total) + ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) ) as gross_sales, SUM(wp_wc_order_stats.total_sales) AS total_sales, COALESCE( SUM(discount_amount), 0 ) AS coupons, COALESCE( coupons_count, 0 ) as coupons_count, ABS( SUM( CASE WHEN wp_wc_order_stats.net_total < 0 THEN wp_wc_order_stats.net_total ELSE 0 END ) ) AS refunds, SUM(wp_wc_order_stats.tax_total) AS taxes, SUM(wp_wc_order_stats.shipping_total) AS shipping, SUM(wp_wc_order_stats.net_total) AS net_revenue, SUM( wp_wc_order_stats.num_items_sold ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_items_per_order, SUM( wp_wc_order_stats.net_total ) / SUM( CASE WHEN wp_wc_order_stats.parent_id = 0 THEN 1 ELSE 0 END ) AS avg_order_value, COUNT( DISTINCT( wp_wc_order_stats.customer_id ) ) as total_customers
+			FROM
+				wp_wc_order_stats
+				LEFT JOIN (
+						SELECT
+							order_id,
+							SUM(discount_amount) AS discount_amount,
+							COUNT(DISTINCT coupon_id) AS coupons_count
+						FROM
+							wp_wc_order_coupon_lookup
+						GROUP BY
+							order_id
+						) order_coupon_lookup
+						ON order_coupon_lookup.order_id = wp_wc_order_stats.order_id
+			WHERE
+				1=1
+				AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) ) AND wp_wc_order_stats.`date_paid` <= '2024-09-04 23:59:59' AND wp_wc_order_stats.`date_paid` >= '2024-09-01 00:00:00'
+		
+				GROUP BY
+					time_interval
+			
+				ORDER BY
+					time_interval desc
+			LIMIT 0,10 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\PerformanceIndicators\Controller->get_stats_data, rest_do_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Orders\Stats\DataStore->get_data
+[04-Sep-2024 20:07:17 UTC] Erreur d’événement de replanification de tâche pour le crochet action_scheduler_run_queue. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[04-Sep-2024 20:21:17 UTC] WordPress database error Unknown column 'total_sales' in 'field list' for query 
+			SELECT
+				COUNT( * ) as customers_count, AVG( orders_count ) as avg_orders_count, AVG( total_spend ) as avg_total_spend, AVG( avg_order_value ) as avg_avg_order_value
+			FROM
+				(
+			SELECT
+				SUM( total_sales ) AS total_spend, SUM( CASE WHEN parent_id = 0 THEN 1 END ) as orders_count, CASE WHEN SUM( CASE WHEN parent_id = 0 THEN 1 ELSE 0 END ) = 0 THEN NULL ELSE SUM( total_sales ) / SUM( CASE WHEN parent_id = 0 THEN 1 ELSE 0 END ) END AS avg_order_value
+			FROM
+				wp_wc_customer_lookup
+				LEFT JOIN wp_wc_order_stats ON wp_wc_customer_lookup.customer_id = wp_wc_order_stats.customer_id AND ( wp_wc_order_stats.status NOT IN ( 'wc-auto-draft','wc-trash','wc-pending','wc-failed','wc-cancelled','wc-checkout-draft' ) )
+			WHERE
+				1=1
+				
+		
+				GROUP BY
+					wp_wc_customer_lookup.customer_id
+			) AS tt
+				
+			WHERE
+				1=1
+				
+		 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, Automattic\WooCommerce\Admin\API\Reports\Customers\Stats\Controller->get_items, Automattic\WooCommerce\Admin\API\Reports\Customers\Stats\Query->get_data, WC_Data_Store->__call, Automattic\WooCommerce\Admin\API\Reports\Customers\Stats\DataStore->get_data
+[04-Sep-2024 20:21:17 UTC] PHP Warning:  Undefined array key 0 in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\woocommerce\src\Admin\API\Reports\Customers\Stats\DataStore.php on line 121
+[04-Sep-2024 20:21:17 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\Users\Patrick Vieira\Local Sites\santnature\app\public\wp-content\plugins\woocommerce\src\Admin\API\Reports\DataStore.php on line 637
+[05-Sep-2024 00:16:39 UTC] Erreur d’événement de replanification de tâche pour le crochet action_scheduler_run_queue. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[05-Sep-2024 13:38:01 UTC] Erreur d’événement de replanification de tâche pour le crochet action_scheduler_run_queue. Code d’erreur : could_not_set. Message d’erreur : La liste des évènements planifiés n’a pas pu être sauvegardée.. Données : {"schedule":"every_minute","args":["WP Cron"],"interval":60}
